@@ -1,0 +1,14 @@
+{
+  "name": "gestion-forage-ssl",
+  "version": "1.0.0",
+  "description": "Gestion du forage - Samba Sy Logiciels (SSL)",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/filesystem": "^6.0.1",
+    "@capacitor/share": "^6.0.2",
+    "cordova-plugin-printer": "^0.8.0"
+  }
+}
